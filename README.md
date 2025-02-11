@@ -28,7 +28,7 @@ Este projeto implementa o controle de um servo motor utilizando um sinal PWM ger
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https: https://github.com/Gabriellacerdaaa/ATIVIDADE_PWM.git
    cd seu-repositorio
    ```
 
@@ -48,18 +48,10 @@ Este projeto implementa o controle de um servo motor utilizando um sinal PWM ger
    - Conecte o **Pico** ao PC enquanto pressiona o botão **BOOTSEL**.
    - Copie o arquivo `.uf2` gerado para o dispositivo montado.
 
-## 📡 Monitoramento via Serial
-
-Para acompanhar a saída do programa, utilize um terminal serial:
-```bash
-minicom -b 115200 -o -D /dev/ttyUSB0
-```
-Ou no Windows, utilize ferramentas como **PuTTY**.
-
 
 ## 📜 Licença
 
-Este projeto é distribuído sob a licença **MIT**. Sinta-se à vontade para usá-lo e modificá-lo! 😊
+Este projeto é distribuído sob a licença **MIT**. 
 
 ---
 AUTOR: Gabriel Santos Lacerda
