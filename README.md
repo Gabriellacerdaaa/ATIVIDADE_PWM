@@ -1,5 +1,5 @@
 # Controle de Servo Motor com Raspberry Pi Pico 🚀
-
+Link vídeo: https://youtu.be/fI2V2_3sOXI
 Este projeto implementa o controle de um servo motor utilizando um sinal PWM gerado pelo microcontrolador **Raspberry Pi Pico**. O código é escrito em **C** e faz uso da biblioteca **Pico SDK** para configurar e operar o PWM.
 
 ## 📌 Funcionalidades
